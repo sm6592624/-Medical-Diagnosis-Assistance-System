@@ -1,0 +1,96 @@
+Symptoms: Cough
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Chest Pain
+Diagnosis: Possible diagnosis: Heart condition.
+Recommendation: Seek immediate medical attention.
+----
+Symptoms: Chest Pain
+Diagnosis: Possible diagnosis: Heart condition.
+Recommendation: Seek immediate medical attention.
+----
+Symptoms: Fever
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Shortness of Breath
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Fever
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Cough
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Insufficient data to diagnose.
+Recommendation: Please consult a healthcare provider.
+----
+Symptoms: Fever
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Cough
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Cough
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Cough
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Fever
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Headache
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Headache, Nausea
+Diagnosis: Possible diagnosis: Migraine.
+Recommendation: Avoid light/noise, rest, and use migraine-specific medication.
+----
+Symptoms: Fever, Cough, Headache, Nausea
+Diagnosis: Possible diagnosis: Flu or Common Cold.
+Recommendation: Rest, hydration, and consult a doctor if severe.
+----
+Symptoms: Cough
+Diagnosis: Only one symptom provided.
+Recommendation: More symptoms may help provide a more accurate diagnosis. Please consult a healthcare provider.
+----
+Symptoms: Fever, Cough, Headache
+Diagnosis: Possible diagnosis: Flu or Common Cold.
+Recommendation: Rest, hydration, and consult a doctor if severe.
+----
+Symptoms: Fever, Cough, Headache
+Diagnosis: Possible diagnosis: Flu or Common Cold.
+Recommendation: Rest, hydration, and consult a doctor if severe.
+----
